@@ -63,7 +63,7 @@ Features: 21 columns
 1. Clone this repository or install the zip file
 2. Install required dependencies:
     Python``` 
-    pip install pandas matplotlib seaborn
+    print('pip install pandas matplotlib seaborn')
     ```
 3. Open and run the Jupyter notebook
 
